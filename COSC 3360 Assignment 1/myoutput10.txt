@@ -1,0 +1,5 @@
+Process 0 terminates at time 1280.2 ms.
+It performed 1 physical read(s), 0 in-memory read(s), and 1 physical write(s).
+Process Table: 
+Process 0 is TERMINATED.
+

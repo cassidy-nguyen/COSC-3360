@@ -1,0 +1,18 @@
+Process 0 terminates at time 3705 ms.
+It performed 1 physical read(s), 1 in-memory read(s), and 2 physical write(s).
+Process Table: 
+Process 0 is TERMINATED.
+Process 1 is READY.
+Process 2 is RUNNING.
+
+Process 2 terminates at time 4760.2 ms.
+It performed 4 physical read(s), 0 in-memory read(s), and 4 physical write(s).
+Process Table: 
+Process 1 is RUNNING.
+Process 2 is TERMINATED.
+
+Process 1 terminates at time 5505.4 ms.
+It performed 7 physical read(s), 0 in-memory read(s), and 7 physical write(s).
+Process Table: 
+Process 1 is TERMINATED.
+
